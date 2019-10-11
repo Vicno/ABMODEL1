@@ -15,7 +15,17 @@ public class CalculadoraEnGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+    	
+    	
     }
     
+    
+    
+    
+    
+    
+    public double dividir(double a,double b)
+    {
+    	return a/b;
+    }
 }
