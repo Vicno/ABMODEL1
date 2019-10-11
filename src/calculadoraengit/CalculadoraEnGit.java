@@ -16,7 +16,7 @@ public class CalculadoraEnGit {
      */
     public static void main(String[] args) {
     	
-    	
+    	System.out.println(dividir(5.1,5.1));
     }
     
     
@@ -24,7 +24,7 @@ public class CalculadoraEnGit {
     
     
     
-    public double dividir(double a,double b)
+    public static double dividir(double a,double b)
     {
     	return a/b;
     }
